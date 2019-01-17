@@ -174,3 +174,29 @@ h3 {
     border: 1px solid #cf6d17;
     color: #fff;
 }
+
+section {
+    padding: 80px 0;
+}
+
+.section-features .long-copy {
+    margin-bottom: 30px;
+}
+
+.long-copy {
+    line-height: 145%;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.box p {
+    font-size: 90%;
+    line-height: 145%;
+}
+
+.icon-big {
+    font-size: 350%;
+    display: block;
+    color: #e67e22;
+    margin-bottom: 10px;
+}
